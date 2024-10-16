@@ -1,0 +1,4 @@
+flask
+youtube_transcript_api
+requests
+firebase_admin
